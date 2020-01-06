@@ -1,0 +1,4 @@
+lyricsgenius
+fuzzywuzzy[speedup]
+spotipy
+requests
