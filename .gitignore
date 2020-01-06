@@ -1,0 +1,11 @@
+.cache
+.cache-blasternt
+.bashrc
+.bash_logout
+.profile
+.local
+.config
+.jupyter
+.ipython
+.ipynb_checkpoints
+.gitconfig
